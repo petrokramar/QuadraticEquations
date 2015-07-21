@@ -1,0 +1,12 @@
+<resources>
+<string name="app_name">Quadratic equations</string>
+<string name="action_settings">About</string>
+<string name="x2_text">x\u00B2 +</string>
+<string name="x_text">x +</string>
+<string name="btn_solve">Solve</string>
+<string name="text_equation">ax\u00B2+bx+c=0</string>
+<string name="any_number">Any number</string>
+<string name="no_solution">No solution</string>
+<string name="incorrect_conditions">Incorrect conditions</string>
+<string name="author">Developer Peter Kramar\npeter.v.kramar@gmail.com\n2015</string>
+</resources>
