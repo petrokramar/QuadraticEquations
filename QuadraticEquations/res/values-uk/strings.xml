@@ -1,0 +1,9 @@
+<resources>
+<string name="app_name">Квадратні рівняння</string>
+<string name="action_settings">Про програму</string>
+<string name="btn_solve">Розв`язати</string>
+<string name="any_number">Будь-яке число</string>
+<string name="no_solution">Розв`язків нема</string>
+<string name="incorrect_conditions">Невірні умови</string>
+<string name="author">Розробник Петро Крамар\npeter.v.kramar@gmail.com\n2015</string>
+</resources>
