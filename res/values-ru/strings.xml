@@ -1,0 +1,9 @@
+<resources>
+<string name="app_name">Квадратные уравнения</string>
+<string name="action_settings">О программе</string>
+<string name="btn_solve">Решить</string>
+<string name="any_number">Любое число</string>
+<string name="no_solution">Решений нет</string>
+<string name="incorrect_conditions">Неправильные условия</string>
+<string name="author">Разработчик Петр Крамар\npeter.v.kramar@gmail.com\n2015</string>
+</resources>
